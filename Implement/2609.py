@@ -48,3 +48,5 @@ def lcm(a, b):
 
 print(gcd(num1, num2))
 print(lcm(num1, num2))
+
+#https://jih3508.tistory.com/13
